@@ -12,9 +12,9 @@
 
 ### 📫 Contacto
 
-📧 **Email:** JorgeLLLReynaldez@gmail.com  
-🌐 **Portafolio:** [https://jorgellanosreynaldez.web.app](https://jorgellanosreynaldez.web.app)  
-📍 **Ubicación:** La Paz - Bolivia  
+###📧 Email: JorgeLLLReynaldez@gmail.com  
+###🌐 Portafolio: [https://jorgellanosreynaldez.web.app](https://jorgellanosreynaldez.web.app)  
+###📍 Ubicación: La Paz - Bolivia  
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JorgeLlanosReynaldez)  
