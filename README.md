@@ -4,6 +4,8 @@
 
 ---
 
+![Animación de bienvenida](URL_DEL_GIF)
+
 ## Sobre mí
 ¡Hola a todos! Soy un desarrollador Full-stack con experiencia en diversas tecnologías y lenguajes de programación. Me especializo en el desarrollo con C# y .NET. Además, tengo experiencia trabajando con Blazor, Angular, NEXT.js y en el desarrollo y soporte de páginas web utilizando WordPress.
 
