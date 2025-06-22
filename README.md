@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">📧 Email: JorgeLLLReynaldez@gmail.com<br>🌐 Portafolio: https://jorgellanosreynaldez.web.app<br>📍 Ubicación: La Paz - Bolivia</p>
+<p align="left">📧 Email: JorgeLLLReynaldez@gmail.com<br>📍 Ubicación: La Paz - Bolivia</p>
 
 ###
 
